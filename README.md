@@ -19,3 +19,5 @@
 ![系统截图](https://github.com/kenzok8/Lienol/blob/master/screenshot/sshot-9.png)
 ![系统截图](https://github.com/kenzok8/Lienol/blob/master/screenshot/sshot-10.png)
 ![系统截图](https://github.com/kenzok8/Lienol/blob/master/screenshot/sshot-11.png)
+![系统截图](https://github.com/kenzok8/Lienol/blob/master/screenshot/sshot-13.png)
+![系统截图](https://github.com/kenzok8/Lienol/blob/master/screenshot/sshot-14.png)
