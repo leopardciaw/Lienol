@@ -2,6 +2,8 @@
 
 * actions-openwrt-passwall用于Lienol-19.07-dev分支 编译
 
+* 192.168.3.1  password
+
 - [固件下载地址](https://github.com/kenzok8/actions-openwrt-passwall/actions)
 
 
