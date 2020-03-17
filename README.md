@@ -8,7 +8,7 @@
 
 #### 截图
 
-![系统截图](https://github.com/kenzok8/Lienol/blob/master/screenshot/OpenWrt - 概况 - LuCI.png)
+![系统截图](https://github.com/kenzok8/Lienol/blob/master/screenshot/quan.png)
 ![系统截图](https://github.com/kenzok8/Lienol/blob/master/screenshot/sshot-2.png)
 ![系统截图](https://github.com/kenzok8/Lienol/blob/master/screenshot/sshot-3.png)
 ![系统截图](https://github.com/kenzok8/Lienol/blob/master/screenshot/sshot-4.png)
