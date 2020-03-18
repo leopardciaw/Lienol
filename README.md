@@ -1,13 +1,14 @@
 ﻿#### 说明
 
 * actions-openwrt-passwall用于Lienol-19.07-dev分支 编译
+* P3TERX/Actions-OpenWrt用于Lean最新源码编译
 
-* passwall ssr-plus clash openclash smartdns 
+* Lienol固件包含passwall ssr-plus clash openclash 三大神器 smartdns 
+* Lean  固件包含passwall ssr-plus clash openclash 三大神器 
+* 固件 192.168.3.1  密码password
 
-* 192.168.3.1  password
-
-- [固件下载地址](https://github.com/kenzok8/actions-openwrt-passwall/actions)
-
+- [Lienol固件下载地址](https://github.com/kenzok8/actions-openwrt-passwall/actions)
+- [Lean  固件下载地址](https://github.com/kenzok8/actions-openwrt-passwall/actions)
 
 
 #### 截图
