@@ -8,7 +8,7 @@
 * 固件 192.168.3.1  密码password
 
 - [Lienol固件下载地址](https://github.com/kenzok8/actions-openwrt-passwall/actions)
-- [Lean  固件下载地址](https://github.com/kenzok8/LEDE-x86_64/actions/runs/58082693)
+- [Lean  固件下载地址](https://github.com/kenzok8/LEDE-x86_64/actions)
 
 
 #### 截图
